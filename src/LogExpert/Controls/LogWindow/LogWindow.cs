@@ -647,6 +647,16 @@ namespace LogExpert
             #endregion
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
 #if DEBUG
         internal void DumpBufferInfo()
         {
