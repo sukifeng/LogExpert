@@ -193,7 +193,7 @@
             this.tabControl1.Location = new System.Drawing.Point(1, 2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(633, 281);
+            this.tabControl1.Size = new System.Drawing.Size(645, 281);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -578,16 +578,16 @@
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(625, 255);
+            this.tabPage3.Size = new System.Drawing.Size(637, 255);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "External Tools";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
             // label5
             // 
-            this.label5.Location = new System.Drawing.Point(364, 61);
+            this.label5.Location = new System.Drawing.Point(364, 34);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(251, 48);
+            this.label5.Size = new System.Drawing.Size(251, 74);
             this.label5.TabIndex = 6;
             this.label5.Text = "You can configure as many tools as you want. \r\nChecked tools will appear in the i" +
     "con bar. All other tools are available in the tools menu.";
@@ -1432,7 +1432,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.cancelButton;
-            this.ClientSize = new System.Drawing.Size(637, 338);
+            this.ClientSize = new System.Drawing.Size(650, 338);
             this.Controls.Add(this.importButton);
             this.Controls.Add(this.exportButton);
             this.Controls.Add(this.okButton);

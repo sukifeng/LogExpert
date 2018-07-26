@@ -323,7 +323,7 @@ namespace LogExpert
             {
                 DataGridViewColumn titleColumn = new LogTextColumn();
                 titleColumn.HeaderText = colName;
-                titleColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.NotSet;
+                titleColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
                 titleColumn.Resizable = DataGridViewTriState.NotSet;
                 titleColumn.DividerWidth = 1;
                 titleColumn.HeaderCell.ContextMenuStrip = this.columnContextMenuStrip;
